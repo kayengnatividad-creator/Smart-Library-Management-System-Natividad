@@ -12,3 +12,12 @@ Development Team
 Student Name: Natividad, Kaeza G.
 Course: IT3012
 Section: 2C
+
+Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
+
