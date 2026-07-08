@@ -6,9 +6,6 @@ Project Modules
 - Book Catalog
 - Borrowing
 - Returning
-- Inventory Management
-- Reports
-- User Accounts
 Development Team
 Student Name: Natividad, Kaeza G.
 Course: IT3012
